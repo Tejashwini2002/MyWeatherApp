@@ -5,6 +5,10 @@ Welcome to the Weather Web App
 <br>
 OUTPUT:
 <br>
+![Image](https://github.com/user-attachments/assets/91ca4254-e0ff-4481-9ebf-9c2026f8435e)
+<br>
 ![Image](https://github.com/user-attachments/assets/12981cf4-bd7b-4b3e-b30d-e1acc8109ad5)
+<br>
+
 
 
